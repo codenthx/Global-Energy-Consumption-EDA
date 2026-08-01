@@ -60,8 +60,6 @@ global-energy-consumption-eda/
 ├── notebook/
 ├── images/
 ├── README.md
-├── requirements.txt
-└── LICENSE
 ```
 
 ---
